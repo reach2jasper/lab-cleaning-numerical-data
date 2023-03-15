@@ -78,7 +78,6 @@ YX23800,Oregon,No,Basic,Bachelor,Employed,M,Suburban,Married,Personal Auto,Perso
 DZ87709,Oregon,No,Basic,High School or Below,Employed,F,Rural,Single,Personal Auto,Personal Low,2,Call Center,Four-Door Car,Medsize
 XW13033,Nevada,No,Basic,College,Employed,M,Suburban,Married,Personal Auto,Personal Low,2,Agent,Four-Door Car,Medsize
 LN31673,Washington,No,Extended,College,Employed,M,Rural,Married,Personal Auto,Personal High,1,Agent,Four-Door Car,Medsize
-OM82309,California,No,Basic,Bachelor,Employed,M,Rural,Single,Personal Auto,Personal High,2,Branch,Luxury Car,Small
 ZU35962,California,No,Extended,College,Unemployed,F,Rural,Single,Personal Auto,Personal High,3,Branch,Two-Door Car,Large
 VH85817,California,Yes,Basic,High School or Below,Employed,M,Suburban,Single,Personal Auto,Personal High,2,Call Center,Four-Door Car,Medsize
 DT85712,California,No,Basic,Doctor,Employed,M,Suburban,Married,Personal Auto,Personal Low,3,Branch,SUV,Medsize
@@ -1973,7 +1972,6 @@ KV99550,California,No,Basic,High School or Below,Unemployed,M,Suburban,Married,P
 CA96230,California,No,Basic,Doctor,Employed,M,Rural,Married,Personal Auto,Personal Medium,3,Branch,SUV,Medsize
 QN17712,Oregon,No,Basic,College,Unemployed,F,Urban,Divorced,Personal Auto,Personal High,1,Web,SUV,Medsize
 KM79894,Arizona,No,Extended,Master,Employed,M,Suburban,Married,Corporate Auto,Corporate High,2,Agent,Four-Door Car,Medsize
-YC54142,Washington,No,Extended,High School or Below,Unemployed,M,Suburban,Single,Personal Auto,Personal Low,1,Branch,Luxury Car,Medsize
 DZ45471,Nevada,Yes,Basic,College,Employed,M,Urban,Married,Personal Auto,Personal Low,2,Web,Four-Door Car,Medsize
 DE18949,Oregon,No,Basic,College,Employed,F,Rural,Married,Corporate Auto,Corporate High,1,Call Center,Two-Door Car,Small
 BN74268,Arizona,No,Extended,College,Employed,F,Suburban,Married,Personal Auto,Personal High,1,Branch,Four-Door Car,Medsize
@@ -2189,7 +2187,6 @@ HE84643,California,No,Basic,High School or Below,Unemployed,F,Suburban,Single,Pe
 CL37990,Arizona,No,Extended,Bachelor,Unemployed,F,Suburban,Single,Corporate Auto,Corporate Low,1,Call Center,Four-Door Car,Medsize
 HR87252,California,No,Basic,Bachelor,Employed,F,Suburban,Divorced,Personal Auto,Personal High,1,Branch,Sports Car,Medsize
 SB27146,Oregon,No,Premium,High School or Below,Employed,F,Rural,Single,Personal Auto,Personal High,3,Agent,Two-Door Car,Medsize
-KI58952,California,No,Premium,College,Employed,F,Rural,Single,Personal Auto,Personal Medium,1,Web,SUV,Large
 RM21896,Oregon,No,Extended,College,Employed,F,Rural,Divorced,Personal Auto,Personal High,3,Call Center,Four-Door Car,Medsize
 JS38272,Arizona,Yes,Extended,College,Unemployed,M,Suburban,Married,Personal Auto,Personal Medium,2,Agent,SUV,Medsize
 NJ15094,Washington,No,Basic,Bachelor,Unemployed,F,Suburban,Married,Personal Auto,Personal High,1,Agent,Four-Door Car,Medsize
@@ -2907,7 +2904,6 @@ XS97845,Oregon,No,Premium,College,Employed,M,Urban,Divorced,Personal Auto,Person
 DL20327,Oregon,No,Basic,College,Employed,F,Urban,Married,Personal Auto,Personal Medium,3,Agent,Four-Door Car,Medsize
 GD86131,California,Yes,Basic,College,Medical Leave,F,Suburban,Married,Corporate Auto,Corporate Medium,2,Call Center,Four-Door Car,Medsize
 ID21061,Arizona,No,Extended,Master,Employed,F,Urban,Married,Personal Auto,Personal High,2,Web,Four-Door Car,Large
-EN65835,Arizona,No,Premium,Bachelor,Employed,F,Suburban,Married,Personal Auto,Personal Medium,2,Agent,SUV,Medsize
 BE65350,Oregon,No,Basic,High School or Below,Employed,F,Suburban,Married,Personal Auto,Personal High,1,Agent,Two-Door Car,Large
 GI82721,Arizona,No,Basic,College,Unemployed,F,Suburban,Single,Corporate Auto,Corporate Low,1,Branch,Four-Door Car,Medsize
 YR84813,Oregon,No,Premium,College,Unemployed,M,Suburban,Single,Special Auto,Special Medium,3,Call Center,Four-Door Car,Medsize
@@ -3144,7 +3140,6 @@ WI75766,Arizona,Yes,Extended,High School or Below,Retired,F,Suburban,Divorced,Pe
 DR27120,Washington,No,Extended,Bachelor,Unemployed,F,Suburban,Married,Corporate Auto,Corporate High,3,Web,Two-Door Car,Medsize
 UQ67668,Nevada,Yes,Basic,High School or Below,Employed,M,Suburban,Married,Personal Auto,Personal High,2,Agent,Four-Door Car,Medsize
 PR64751,Nevada,No,Basic,Bachelor,Unemployed,M,Suburban,Married,Corporate Auto,Corporate High,1,Agent,Two-Door Car,Small
-CL79250,Nevada,No,Basic,Bachelor,Unemployed,M,Suburban,Married,Corporate Auto,Corporate Medium,2,Agent,Luxury Car,Small
 ZR72236,Nevada,No,Basic,Master,Employed,M,Urban,Married,Personal Auto,Personal High,2,Branch,Two-Door Car,Medsize
 SG52649,Washington,Yes,Basic,High School or Below,Retired,M,Suburban,Married,Corporate Auto,Corporate Low,1,Web,Sports Car,Medsize
 SG96896,Oregon,No,Basic,High School or Below,Unemployed,M,Suburban,Single,Personal Auto,Personal High,1,Call Center,Four-Door Car,Small
@@ -3759,7 +3754,6 @@ SZ14518,California,No,Basic,College,Unemployed,F,Suburban,Divorced,Personal Auto
 XI58886,California,No,Basic,High School or Below,Employed,M,Rural,Married,Personal Auto,Personal Low,2,Branch,Two-Door Car,Medsize
 NL17031,Washington,No,Extended,High School or Below,Unemployed,M,Suburban,Single,Personal Auto,Personal High,2,Agent,Two-Door Car,Medsize
 OB32861,Nevada,No,Extended,High School or Below,Unemployed,M,Suburban,Married,Special Auto,Special Medium,4,Web,Two-Door Car,Medsize
-AZ84403,Oregon,No,Extended,College,Unemployed,F,Suburban,Married,Personal Auto,Personal Low,3,Branch,Luxury SUV,Medsize
 PU34934,Arizona,No,Extended,College,Employed,F,Suburban,Married,Personal Auto,Personal High,3,Branch,Four-Door Car,Medsize
 WX87964,Washington,No,Basic,High School or Below,Employed,M,Suburban,Married,Personal Auto,Personal High,1,Agent,Four-Door Car,Medsize
 VI12468,Oregon,No,Extended,Bachelor,Unemployed,F,Urban,Married,Personal Auto,Personal Medium,2,Branch,SUV,Medsize
@@ -4125,7 +4119,6 @@ RD28560,Washington,Yes,Basic,Bachelor,Employed,F,Urban,Married,Corporate Auto,Co
 DD22139,Washington,No,Basic,College,Unemployed,F,Suburban,Divorced,Corporate Auto,Corporate High,1,Branch,Two-Door Car,Small
 LN50415,Oregon,No,Extended,Bachelor,Employed,M,Urban,Married,Corporate Auto,Corporate High,2,Web,SUV,Medsize
 OP62891,Oregon,No,Basic,High School or Below,Unemployed,F,Suburban,Single,Personal Auto,Personal Medium,4,Agent,Two-Door Car,Medsize
-JT47995,Arizona,No,Extended,College,Unemployed,F,Suburban,Married,Personal Auto,Personal High,1,Web,Luxury SUV,Large
 AG39150,Oregon,No,Basic,Bachelor,Unemployed,M,Suburban,Married,Personal Auto,Personal High,1,Agent,Four-Door Car,Medsize
 QJ65440,California,No,Extended,Bachelor,Unemployed,F,Suburban,Single,Corporate Auto,Corporate High,1,Agent,Four-Door Car,Medsize
 IJ40048,California,No,Basic,Bachelor,Employed,M,Urban,Single,Corporate Auto,Corporate Medium,1,Branch,Four-Door Car,Medsize
@@ -4914,7 +4907,6 @@ NP30139,Oregon,No,Extended,College,Employed,M,Suburban,Divorced,Corporate Auto,C
 FV54537,California,No,Basic,College,Employed,M,Suburban,Married,Personal Auto,Personal Medium,1,Branch,SUV,Medsize
 SG62327,Nevada,No,Basic,High School or Below,Employed,M,Suburban,Married,Corporate Auto,Corporate High,1,Agent,Four-Door Car,Small
 FX26050,Oregon,No,Basic,Doctor,Disabled,M,Rural,Married,Special Auto,Special Low,4,Agent,Two-Door Car,Medsize
-DU50092,Oregon,No,Premium,College,Employed,F,Suburban,Married,Personal Auto,Personal Low,4,Web,Luxury SUV,Medsize
 EU48798,Nevada,No,Basic,College,Disabled,F,Suburban,Divorced,Personal Auto,Personal High,2,Web,Two-Door Car,Medsize
 WE93328,Nevada,Yes,Extended,High School or Below,Employed,F,Suburban,Married,Corporate Auto,Corporate High,3,Agent,Four-Door Car,Small
 KP83069,California,No,Basic,High School or Below,Unemployed,F,Suburban,Single,Personal Auto,Personal High,2,Branch,Four-Door Car,Small
@@ -5278,7 +5270,6 @@ CJ72056,California,No,Basic,Bachelor,Employed,M,Suburban,Married,Personal Auto,P
 QU52713,California,No,Basic,Bachelor,Employed,M,Urban,Married,Corporate Auto,Corporate High,2,Agent,SUV,Medsize
 FE20514,Oregon,No,Basic,College,Employed,M,Urban,Single,Personal Auto,Personal Low,2,Web,Four-Door Car,Medsize
 RY43586,Oregon,No,Basic,Master,Disabled,F,Rural,Married,Personal Auto,Personal High,1,Agent,Two-Door Car,Medsize
-SK66747,Washington,No,Basic,Bachelor,Employed,M,Suburban,Single,Personal Auto,Personal High,1,Agent,Luxury SUV,Medsize
 SC31713,California,No,Extended,College,Unemployed,F,Suburban,Single,Personal Auto,Personal High,1,Agent,Four-Door Car,Medsize
 TH72420,Oregon,No,Basic,Doctor,Employed,M,Suburban,Married,Personal Auto,Personal High,4,Agent,Two-Door Car,Small
 FD75102,California,No,Extended,College,Disabled,F,Rural,Divorced,Personal Auto,Personal High,4,Call Center,Two-Door Car,Medsize
@@ -5715,7 +5706,6 @@ AR40217,Oregon,No,Basic,High School or Below,Employed,F,Urban,Divorced,Personal 
 IM73868,Oregon,No,Premium,College,Unemployed,M,Suburban,Single,Corporate Auto,Corporate Medium,1,Branch,Sports Car,Medsize
 BR44176,California,Yes,Premium,High School or Below,Employed,F,Suburban,Married,Personal Auto,Personal High,2,Call Center,Two-Door Car,Small
 MY51849,Oregon,No,Basic,Bachelor,Unemployed,F,Suburban,Married,Personal Auto,Personal High,1,Branch,Four-Door Car,Large
-FQ61281,Oregon,No,Extended,High School or Below,Employed,M,Suburban,Married,Personal Auto,Personal High,1,Call Center,Luxury Car,Small
 NJ72300,Oregon,No,Basic,Bachelor,Unemployed,F,Suburban,Married,Personal Auto,Personal High,2,Web,SUV,Small
 YO81740,Oregon,No,Extended,Bachelor,Unemployed,F,Suburban,Single,Personal Auto,Personal High,1,Call Center,Four-Door Car,Small
 WM25415,Oregon,No,Basic,High School or Below,Employed,F,Urban,Divorced,Personal Auto,Personal Medium,1,Agent,Two-Door Car,Medsize
@@ -6251,7 +6241,6 @@ PA80607,Oregon,No,Basic,High School or Below,Employed,M,Urban,Married,Personal A
 YC87263,Oregon,No,Premium,Master,Employed,F,Suburban,Married,Corporate Auto,Corporate Medium,1,Branch,SUV,Medsize
 EB52195,Oregon,No,Basic,College,Employed,F,Urban,Married,Personal Auto,Personal High,4,Branch,Four-Door Car,Medsize
 VF33776,Nevada,No,Extended,High School or Below,Employed,F,Rural,Married,Corporate Auto,Corporate Low,2,Web,Four-Door Car,Medsize
-BP23267,California,No,Extended,Bachelor,Employed,F,Suburban,Married,Personal Auto,Personal High,1,Branch,Luxury SUV,Medsize
 OH80943,California,Yes,Extended,College,Unemployed,F,Suburban,Divorced,Special Auto,Special High,2,Agent,Four-Door Car,Medsize
 OA46321,Oregon,No,Basic,College,Employed,M,Suburban,Married,Corporate Auto,Corporate High,3,Agent,Luxury Car,Large
 CA22248,Oregon,No,Basic,Master,Employed,F,Rural,Single,Personal Auto,Personal High,2,Branch,Four-Door Car,Medsize
@@ -6460,7 +6449,6 @@ CY33307,California,No,Basic,College,Employed,F,Rural,Married,Corporate Auto,Corp
 BC51708,California,No,Basic,High School or Below,Employed,M,Suburban,Married,Personal Auto,Personal Medium,2,Agent,Four-Door Car,Medsize
 JX78176,California,No,Extended,Bachelor,Employed,F,Urban,Married,Personal Auto,Personal High,1,Branch,Four-Door Car,Medsize
 GP20237,Nevada,No,Basic,Bachelor,Employed,F,Suburban,Married,Personal Auto,Personal High,2,Call Center,Four-Door Car,Small
-OY68395,Oregon,No,Basic,High School or Below,Employed,F,Suburban,Single,Personal Auto,Personal Medium,1,Web,Luxury SUV,Large
 GN18675,California,No,Basic,Bachelor,Employed,M,Rural,Married,Special Auto,Special High,2,Branch,Four-Door Car,Medsize
 EQ75249,Arizona,No,Basic,College,Employed,F,Rural,Married,Personal Auto,Personal Medium,1,Web,Four-Door Car,Medsize
 JV40853,California,No,Extended,High School or Below,Employed,F,Suburban,Divorced,Personal Auto,Personal High,2,Branch,Two-Door Car,Small
@@ -6553,7 +6541,6 @@ QV26574,Washington,No,Extended,College,Medical Leave,M,Urban,Married,Personal Au
 ZL29593,Arizona,No,Basic,College,Unemployed,F,Suburban,Single,Personal Auto,Personal Medium,2,Agent,Four-Door Car,Medsize
 TU67471,Washington,Yes,Basic,High School or Below,Employed,F,Suburban,Married,Personal Auto,Personal Medium,2,Agent,Two-Door Car,Large
 FD45309,Oregon,Yes,Extended,High School or Below,Unemployed,M,Suburban,Single,Personal Auto,Personal Medium,1,Agent,Two-Door Car,Medsize
-AH58807,Arizona,No,Basic,College,Employed,F,Urban,Married,Personal Auto,Personal Medium,1,Agent,Luxury Car,Medsize
 CX58204,Nevada,No,Basic,High School or Below,Disabled,F,Suburban,Married,Personal Auto,Personal Low,1,Agent,SUV,Medsize
 TE35954,Arizona,Yes,Basic,College,Employed,M,Suburban,Single,Personal Auto,Personal Medium,2,Call Center,Four-Door Car,Small
 XO70106,Oregon,No,Basic,Bachelor,Employed,M,Urban,Divorced,Personal Auto,Personal Medium,1,Agent,SUV,Small
@@ -6568,7 +6555,6 @@ NB18234,Nevada,No,Basic,College,Employed,F,Rural,Single,Personal Auto,Personal H
 KH53118,California,No,Basic,Bachelor,Employed,F,Rural,Married,Special Auto,Special High,1,Agent,Four-Door Car,Medsize
 UX94928,Arizona,No,Basic,High School or Below,Employed,M,Suburban,Single,Personal Auto,Personal Medium,4,Agent,Four-Door Car,Small
 HO94329,Arizona,No,Basic,College,Employed,M,Urban,Married,Corporate Auto,Corporate Low,3,Agent,SUV,Medsize
-LW64678,California,No,Premium,Master,Employed,F,Urban,Married,Personal Auto,Personal High,2,Agent,SUV,Small
 CE11308,Washington,No,Extended,College,Employed,M,Urban,Married,Personal Auto,Personal Medium,4,Call Center,Four-Door Car,Medsize
 DC46685,California,Yes,Basic,College,Medical Leave,F,Suburban,Married,Corporate Auto,Corporate High,1,Branch,Sports Car,Large
 LM69036,Oregon,No,Basic,Master,Unemployed,M,Suburban,Married,Corporate Auto,Corporate Low,3,Branch,Four-Door Car,Small
@@ -6583,7 +6569,6 @@ RB79317,Arizona,No,Extended,Bachelor,Unemployed,F,Rural,Married,Personal Auto,Pe
 IE49043,Nevada,No,Basic,College,Disabled,F,Suburban,Single,Personal Auto,Personal High,1,Call Center,Luxury Car,Medsize
 ZL82075,Nevada,Yes,Basic,Master,Employed,M,Suburban,Married,Corporate Auto,Corporate Low,1,Branch,Four-Door Car,Small
 DV24592,Oregon,Yes,Basic,College,Employed,F,Urban,Married,Personal Auto,Personal High,2,Agent,Four-Door Car,Medsize
-XF89906,Arizona,No,Extended,High School or Below,Disabled,M,Suburban,Married,Personal Auto,Personal High,1,Agent,Luxury SUV,Large
 AD71478,Arizona,No,Extended,High School or Below,Employed,M,Rural,Married,Personal Auto,Personal High,4,Agent,Four-Door Car,Large
 SE15781,California,Yes,Basic,Bachelor,Unemployed,F,Suburban,Married,Corporate Auto,Corporate Low,2,Call Center,Four-Door Car,Large
 YG71375,Nevada,No,Basic,College,Employed,F,Suburban,Married,Personal Auto,Personal Low,1,Agent,Four-Door Car,Large
@@ -7282,7 +7267,6 @@ JM59803,California,No,Basic,Doctor,Employed,M,Urban,Divorced,Personal Auto,Perso
 KG84303,California,No,Extended,Master,Employed,M,Suburban,Married,Personal Auto,Personal High,2,Call Center,Four-Door Car,Small
 OJ37666,California,No,Basic,Bachelor,Employed,F,Suburban,Married,Personal Auto,Personal High,4,Call Center,Four-Door Car,Medsize
 VV49688,Oregon,No,Basic,High School or Below,Unemployed,M,Suburban,Single,Corporate Auto,Corporate Medium,2,Call Center,Four-Door Car,Medsize
-KH55886,Oregon,No,Premium,Bachelor,Employed,M,Rural,Married,Personal Auto,Personal Low,1,Agent,Sports Car,Medsize
 QZ70160,Nevada,No,Basic,College,Medical Leave,F,Suburban,Married,Personal Auto,Personal Medium,1,Branch,Four-Door Car,Medsize
 FU51754,Arizona,Yes,Extended,High School or Below,Unemployed,M,Suburban,Single,Personal Auto,Personal Medium,1,Agent,Two-Door Car,Medsize
 KY48450,Oregon,No,Basic,College,Employed,F,Rural,Married,Personal Auto,Personal Low,3,Agent,Luxury Car,Medsize
@@ -7302,7 +7286,6 @@ YV82597,Nevada,No,Extended,Doctor,Employed,F,Rural,Married,Corporate Auto,Corpor
 FN33339,Oregon,No,Premium,High School or Below,Employed,F,Suburban,Married,Corporate Auto,Corporate Medium,1,Agent,Four-Door Car,Medsize
 UZ97486,California,Yes,Basic,Bachelor,Employed,M,Suburban,Divorced,Corporate Auto,Corporate Medium,2,Call Center,Two-Door Car,Small
 LL92275,California,No,Basic,College,Unemployed,F,Urban,Married,Personal Auto,Personal High,4,Web,Four-Door Car,Medsize
-FB95288,California,No,Extended,High School or Below,Unemployed,M,Suburban,Married,Personal Auto,Personal High,1,Branch,Luxury Car,Small
 NB30472,Arizona,No,Premium,College,Employed,F,Suburban,Married,Personal Auto,Personal Medium,1,Branch,Four-Door Car,Medsize
 RX66745,Washington,Yes,Basic,Bachelor,Retired,M,Suburban,Married,Corporate Auto,Corporate High,1,Branch,Four-Door Car,Medsize
 II97469,California,No,Extended,High School or Below,Employed,M,Rural,Divorced,Personal Auto,Personal High,2,Agent,Four-Door Car,Medsize
@@ -7555,7 +7538,6 @@ TC29250,California,No,Basic,Bachelor,Unemployed,M,Suburban,Single,Personal Auto,
 HX63408,Arizona,No,Basic,Bachelor,Employed,M,Rural,Divorced,Corporate Auto,Corporate Low,1,Branch,Four-Door Car,Medsize
 LJ15849,Arizona,Yes,Extended,Master,Employed,F,Rural,Married,Personal Auto,Personal Medium,1,Branch,Four-Door Car,Large
 NC40609,Nevada,No,Extended,College,Unemployed,M,Suburban,Single,Corporate Auto,Corporate High,2,Call Center,Four-Door Car,Small
-JZ23377,Oregon,No,Premium,College,Employed,F,Suburban,Married,Personal Auto,Personal High,2,Branch,SUV,Medsize
 TB17648,Arizona,No,Basic,College,Employed,M,Suburban,Married,Personal Auto,Personal High,1,Web,Four-Door Car,Medsize
 OP68330,Oregon,No,Extended,College,Unemployed,F,Suburban,Married,Personal Auto,Personal Medium,1,Agent,Four-Door Car,Large
 GO53814,Oregon,No,Basic,High School or Below,Employed,F,Suburban,Married,Corporate Auto,Corporate High,4,Branch,Two-Door Car,Small
@@ -7834,7 +7816,6 @@ VH35998,California,No,Extended,Doctor,Employed,M,Rural,Married,Personal Auto,Per
 UE54045,California,No,Extended,High School or Below,Employed,F,Urban,Married,Corporate Auto,Corporate Low,3,Agent,SUV,Medsize
 XA50997,Nevada,No,Basic,High School or Below,Employed,M,Suburban,Married,Personal Auto,Personal High,1,Agent,Two-Door Car,Medsize
 GM37281,California,Yes,Basic,Bachelor,Employed,F,Urban,Married,Personal Auto,Personal High,2,Agent,Four-Door Car,Medsize
-QT84069,Oregon,No,Extended,Master,Employed,M,Urban,Married,Personal Auto,Personal Low,2,Branch,Luxury SUV,Small
 MG74662,Oregon,No,Extended,High School or Below,Employed,F,Rural,Single,Corporate Auto,Corporate Medium,3,Branch,Four-Door Car,Medsize
 EP46328,California,Yes,Basic,Bachelor,Employed,M,Suburban,Single,Personal Auto,Personal Low,2,Call Center,Four-Door Car,Small
 UL87052,Arizona,No,Basic,Bachelor,Unemployed,F,Suburban,Single,Personal Auto,Personal High,1,Agent,SUV,Medsize
@@ -8824,7 +8805,6 @@ MQ84363,California,No,Extended,Bachelor,Employed,M,Urban,Divorced,Corporate Auto
 UC75204,California,No,Basic,High School or Below,Unemployed,F,Suburban,Single,Personal Auto,Personal High,1,Branch,Luxury SUV,Small
 WN56695,California,No,Premium,College,Unemployed,M,Suburban,Married,Personal Auto,Personal Medium,1,Web,Four-Door Car,Medsize
 MF59279,California,No,Basic,Bachelor,Unemployed,M,Suburban,Single,Personal Auto,Personal Low,1,Agent,Two-Door Car,Small
-US30122,California,No,Basic,College,Unemployed,M,Suburban,Single,Corporate Auto,Corporate High,2,Branch,Luxury Car,Medsize
 IM15403,California,No,Extended,College,Employed,M,Urban,Divorced,Corporate Auto,Corporate Medium,3,Agent,Two-Door Car,Medsize
 IH18704,California,No,Basic,Master,Disabled,M,Suburban,Married,Personal Auto,Personal Medium,2,Agent,SUV,Medsize
 FP27229,California,No,Extended,College,Employed,F,Suburban,Single,Corporate Auto,Corporate High,1,Agent,Four-Door Car,Medsize
