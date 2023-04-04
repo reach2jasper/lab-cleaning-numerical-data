@@ -1,4 +1,4 @@
-customer_lifetime_value,income,monthly_premium_auto,months_since_last_claim,months_since_policy_inception,number_of_open_complaints,number_of_policies,total_claim_amount
+Customer Lifetime Value,Income,Monthly Premium Auto,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Total Claim Amount
 2763.519279,56274,69,32,5,0,1,384.811147
 6979.535903,0,94,13,42,0,8,1131.464935
 12887.43165,48767,108,18,38,0,2,566.4722469999999
